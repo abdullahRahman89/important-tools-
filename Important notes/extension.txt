@@ -1,0 +1,31 @@
+Auto rename tag
+better comments
+c/c++
+Code Runner
+Code Spell Checker
+Highlight mathching
+html css support
+html format
+indent rainbow
+intellisense for
+isort
+live server
+magic python
+material kon theme
+one dark pro
+open in browser
+path autocomplete
+path intellisense
+prettier
+pylance
+python environment
+python extension pack
+python indent
+tailwind css inte
+test adapter converter
+todo highlight
+xml tools
+error lense
+python
+auto align tag
+Mithril Emmet
